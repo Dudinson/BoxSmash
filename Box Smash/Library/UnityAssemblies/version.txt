@@ -1,0 +1,10 @@
+5.2.0f3:2.3.0.0
+iOS
+D:/newU/Unity/Editor/Data/Managed/UnityEngine.dll
+D:/newU/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll
+D:/newU/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/newU/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/newU/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+D:/newU/Unity/Editor/Data/Managed/UnityEditor.dll
+D:/newU/Unity/Editor/Data\Managed/Mono.Cecil.dll
+D:/newU/Unity/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
